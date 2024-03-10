@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\game-page">
+      <UniqueIdentifier>{6ab08deb-d386-48b7-888b-d74d778d8ac2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\game-page\image">
+      <UniqueIdentifier>{277b56ad-cd52-4d90-a221-01f88d670c1b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="page\begin-page\BeginPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="page\end-page\EndPage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="page\game-page\GamePage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="logic\main-logic\GameLogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="page\begin-page\BeginPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="page\end-page\EndPage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="page\game-page\GamePage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="logic\main-logic\GameLogic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="static\game-page\image\1_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\1_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\2_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\2_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\3_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\4_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\4_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\3_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\5_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\5_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\6_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\bg.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\6_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\7_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\8_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\7_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\8_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\9_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\10_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\11_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\12_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\12_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\14_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\13_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\11_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\9_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\10_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\14_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\13_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\15_2.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+    <Image Include="static\game-page\image\15_1.png">
+      <Filter>Resource Files\game-page\image</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
